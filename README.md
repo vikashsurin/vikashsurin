@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Vikash — Full-Stack Developer
 
-<!--
-**vikashsurin/vikashsurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught builder since 2018. I build production-style apps end-to-end — from DB schema to UI.
 
-Here are some ideas to get you started:
+**Current Focus:** Modern TypeScript stack + Vertical Slice Architecture
+`Next.js • Hono • Drizzle ORM • PostgreSQL • Bun • TypeScript`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Featured Project
+**→ E-Commerce Platform with VSA**
+Full-stack e-commerce built with feature-isolated vertical slices. Each feature owns its schema, routes, and UI.
+[Live Demo] [Code] — Tech: Next.js, Hono, Drizzle, Postgres
+
+#### What I care about
+- Feature-isolated architecture, not layered folders
+- End-to-end ownership: schema → API → UI → deploy
+- Design + Engineering (Ex-UI/UX background)
